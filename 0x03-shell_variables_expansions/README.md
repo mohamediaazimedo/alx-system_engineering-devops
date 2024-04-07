@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-u can do it
-=======
-test  ii 
->>>>>>> 11a1404652f9debb15ad9b14c8c5ed081f444838
