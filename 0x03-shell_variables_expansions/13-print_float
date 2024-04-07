@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 printf "%.2f" $NUM
+=======
+printf "%.2f" $NUM | sort
+>>>>>>> 11a1404652f9debb15ad9b14c8c5ed081f444838
